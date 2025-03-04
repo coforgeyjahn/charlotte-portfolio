@@ -3,12 +3,7 @@ description: "A showcase of my projects, experience, and education."
 baseurl: "" # Leave empty for GitHub Pages
 url: "https://coforgeyjahn.github.io/charlotte_portfolio" # Replace <username> and <repository> with your GitHub info
 
-theme: jekyll-theme-primer # Ensure this matches your chosen theme
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-
-# Optional settings
-permalink: pretty
-paginate: 5
